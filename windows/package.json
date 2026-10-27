@@ -1,0 +1,12 @@
+{
+  "name": "kdeconnect-image-clipboard-win",
+  "version": "1.0.0",
+  "description": "KDE Connect Image & Text Clipboard Sync for Windows 11",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["kdeconnect", "clipboard", "image-clipboard", "windows11"],
+  "author": "",
+  "license": "GPL-3.0"
+}

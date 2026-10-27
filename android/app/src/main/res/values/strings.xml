@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KDE Connect ClipSync</string>
+    <string name="service_running">클립보드 동기화 서비스가 실행 중입니다.</string>
+    <string name="status_searching">PC 검색 중 (동일 Wi-Fi)...</string>
+    <string name="status_connected">Windows 11 PC에 연결됨</string>
+    <string name="last_synced">최근 동기화: 없음</string>
+    <string name="btn_test">연결 테스트</string>
+</resources>
